@@ -1,2 +1,2 @@
-# jogoDaVelha
- jogo da velha de terminal em java
+# jogo Da Velha
+ jogo da velha de terminal feito  em java
